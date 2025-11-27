@@ -177,6 +177,17 @@ function App() {
                 </form>
             </div>
         </div>
+      <footer style={{
+    textAlign: "center",
+    padding: "10px",
+    color: "#fff",
+    width: "100%",
+    position: "absolute",
+    bottom: 0
+}}>
+    &copy; 2025 Priyanshu. All Rights Reserved.
+</footer>
+
     </div>
 );
 }
