@@ -127,7 +127,7 @@ function App() {
     <div
         className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
         style={{
-            backgroundImage: `url('https://plus.unsplash.com/premium_photo-1681487767138-ddf2d67b35c1?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y3VycmVuY3klMjBleGNoYW5nZXxlbnwwfHwwfHx8MA%3D%3D')`,
+            backgroundImage: `url('https://media.istockphoto.com/id/660651294/vector/currencies-forex-trading.jpg?s=612x612&w=0&k=20&c=Ozpg3UyJqsziP_gqeQ-sMUqCO9IqS-TMJzY9D3zCLbI=')`,
         }}
     >
         <div className="w-full">
