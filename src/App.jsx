@@ -127,7 +127,7 @@ function App() {
     <div
         className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
         style={{
-            backgroundImage: `url('https://www.shutterstock.com/image-photo/blue-money-business-graph-finance-600nw-2469272775.jpg')`,
+            backgroundImage: `url('https://img.freepik.com/premium-vector/money-transfer-global-currency_115579-1115.jpg')`,
         }}
     >
         <div className="w-full">
